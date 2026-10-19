@@ -15,7 +15,14 @@ In the main section, my name is placed prominently at the top of the page, makin
 The sidebar has a light blue background that visually separates it from the main content area. In it we can find my picture on top, making it the first thing the user will see, and then it is followed by my contact data, my skills and thereafter the languages I speak.
 
 ## Visual Design:
+The style chosen for this CV is clean, professional, and minimalist. The main objective is to create a modern and well-organized design that communicates professionalism while making the information easy to read and understand.
 
+The light blue sidebar creates a clear distinction between the two main sections, while the darker blue headings help highlight important information and maintain visual consistency throughout the page. The white background of the main section also provides contrast and allows the text to stand out.
+
+The typography is simple and readable, ensuring that the content can be scanned quickly. Bold text is used to emphasize key information, such as job titles and academic qualifications, helping the reader identify the most relevant details at a glance. The consistent use of headings, spacing, and alignment contributes to a balanced and structured layout.
 
 ## Figma Link: 
 https://www.figma.com/design/ig08LtOhEkBKJxNmdMCvj9/Curriculum-Vitae?node-id=0-1&t=cvU8bQFVZpHy9V6w-1
+
+## Page Link:
+https://u6103256.github.io/Hypermedia-Project-Part-1/
