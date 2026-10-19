@@ -1,0 +1,101 @@
+.contenidor{
+	display: flex;
+	min-height: 100vh;
+}
+
+.columna-lateral {
+	width: 25%;
+	background-color : #B7CBE6;
+	padding: 60px;
+	box-sizing: border-box;
+}
+
+.columna-lateral h2{
+	margin-left: 0px;
+	color: #0010A3;
+}
+
+.dades-contacte{
+	display: flex;
+	align-items: center;
+	gap: 15px;
+}
+
+.columna-lateral hr{
+	border: none;
+	height: 3px;
+	background-color: #0010A3;
+	width: 94px;
+	margin: 8px 0px 15px 0px;
+}
+
+.foto-perfil{
+	display: block;
+    width: 247px;
+    height: 329px;
+    object-fit: cover;
+    margin: 80px auto 25px auto;
+	border-radius: 5%;
+}
+
+.idiomes p{
+	margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+.columna-principal{
+	width: 75%;
+}
+
+.capcalera{
+    background-color: #426597;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 180px;
+}
+
+.capcalera h1{
+	font-size: 50px;
+	font-style: "Inter";
+	color: white;
+	margin: 0;
+}
+
+.seccio{
+	margin-left: 25px;
+	border: none;
+	width: 70%;
+}
+
+.seccio h2 {
+	color: white;
+	font-size: 25px;
+	font-weight: normal;
+	padding: 4px;
+	background-color: #426597;
+	border-radius: 3px;
+	margin-top: 25px;
+}
+
+.seccio p{
+	font-size: 16px;
+	color: black;
+	text-align: justify;
+	margin: 0px 0px 3px 0px;
+}
+
+.seccio strong{
+	font-size: 16px;
+}
+
+.sub-seccio{
+	margin-bottom: 15px;
+}
+
+h1 {
+	width: 75%;
+	background-color : #436696;
+	color : #FF7B5C;
+	padding : 40px;
+	
+}
